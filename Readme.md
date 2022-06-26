@@ -1,8 +1,8 @@
 ## Remote control
 
 ### Dev dependencies
-  > nodemon
-  > typescript
+  * nodemon
+  * typescript
 
 ### Dependencies
   > @types/jimp
