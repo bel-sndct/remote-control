@@ -20,3 +20,5 @@
 
  For start ws-server
  > npm run server
+
+WSS PORT - 8080
